@@ -3,4 +3,4 @@
 </p>
 
 
-You can find more information, along with the full specifications and instructions, here: [(Assignment 3-2: Pathtracer)](https://cs184.eecs.berkeley.edu/sp23/docs/proj3-2)
+You can find more information, along with the full specifications and instructions, here: https://cs184.eecs.berkeley.edu/sp23/docs/proj3-1 https://cs184.eecs.berkeley.edu/sp23/docs/proj3-2
